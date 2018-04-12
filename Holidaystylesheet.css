@@ -1,0 +1,27 @@
+body {background-color: black;
+    font-family: Chalkduster;
+    color: white;}
+p{  text-align: center;
+    font-family: Chalkduster;
+    color: white;
+}
+.left{text-align: left;}
+h2{text-align: center;}
+ol{font-family: Chalkduster;
+    color: white;}
+ul{font-family: Chalkduster;
+    color: white;}
+h1{font-family: Chalkduster;
+    color: forestgreen;
+    text-align: center;}
+h2{font-family: Chalkduster;
+    color: forestgreen}
+h3{font-family: Chalkduster;
+    color: forestgreen}
+h4{font-family: Chalkduster;
+    color: forestgreen}
+a{color: white;
+    font-family: Chalkduster;
+    text-decoration: underline;
+    text-decoration-color: forestgreen;
+}

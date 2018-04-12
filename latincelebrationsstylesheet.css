@@ -1,0 +1,12 @@
+body {background-color: green;}
+p{ text-align: center;
+    font-family: Chalkduster;
+    color: white;}
+h1{font-family: Chalkduster;
+    color: white;
+    text-align: center;}
+
+a{color: white;
+    font-family: Chalkduster;
+    text-decoration: underline;
+    text-decoration-color: black;}
